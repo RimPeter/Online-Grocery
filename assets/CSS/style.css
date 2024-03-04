@@ -31,3 +31,47 @@
   .nav button:hover {
     background-color: #0056b3;
   }
+
+  .frame1 {
+  display: flex;
+  background-color: #29ac3a; 
+  height: 20vh;
+  width: 40vw;
+}
+
+  .frame2-1 {
+  background-color: #b91c5e; 
+  height: 90%;
+  width: 30%;
+  margin: 2%;
+}
+
+  .frame2-2 {
+  background-color: #b91c5e; 
+  height: 90%;
+  width: 60%;
+  margin: 2%;
+}
+
+  .frame3 {
+  display: flex;
+  flex-direction: row;
+  background-color: #3a26e7; 
+  height: 45%;
+  width: 90%;
+  margin: 2%;
+}
+
+  .frame4 {
+  background-color: #e7e426; 
+  height: 90%;
+  width: 45%;
+  margin: 2%;
+}
+
+  .frame5 {
+  background-color: #b60f1d; 
+  height: 30%;
+  width: 90%;
+  margin: 2%;
+}
