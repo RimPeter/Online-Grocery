@@ -22,6 +22,8 @@ data = products.get_all_values()
 API_KEY = open('API_KEY').read()
 SEARCH_ENGINE_ID = open('SearchEngineID').read()
 
+
+
 search_query = '25010605401354 barcode'
 
 url = 'https://www.googleapis.com/customsearch/v1'
