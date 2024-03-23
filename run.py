@@ -26,20 +26,24 @@ SEARCH_ENGINE_ID = open('SearchEngineID').read()
 
 search_query = '25010605401354 barcode'
 
-url = 'https://www.googleapis.com/customsearch/v1'
+def google_search(search_query):
+    ''' 
+    Search for an image using Google Custom Search API 
+    '''
+    url = 'https://www.googleapis.com/customsearch/v1'
+    params = {
+        'q' : search_query,
+        'key' : API_KEY,
+        'cx' : SEARCH_ENGINE_ID,
+        'searchType' : 'image'
+    }
+    response = requests.get(url, params=params)
+    results = response.json()
+    if 'items' in results:
+        return results['items'][0]['link']
+    else:
+        return 'No image found'
+    
+print(google_search('25010605401354 barcode'))
 
-params = {
-    'q' : search_query,
-    'key' : API_KEY,
-    'cx' : SEARCH_ENGINE_ID,
-    'searchType' : 'image'
-}
-
-response = requests.get(url, params=params)
-results = response.json() #['items']
-
-if 'items' in results:
-    print(results['items'][0]['link'])
-
-# for item in results:
-#     print(item['link'])
+print('Hello World!')
