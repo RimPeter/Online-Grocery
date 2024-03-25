@@ -44,43 +44,20 @@ def search_google_image(search_query):
         return 'No image found'
     
 #print(search_google_image(search_query))
+
 def rows_to_append():
     rows_to_append = []
     for category, inner_dict in product_list.items():
-        #print(category)
-        print(inner_dict)
-        #print(product_list.items())
         for product, price in inner_dict.items():
-            #if product.endswith('a'):  # Assuming 'a' or 'b' distinguishes the float values from string values
             the_link = search_google_image(product + ' packaging')
             rows_to_append.append([category, product, price, the_link])
 
-    # Append rows to the Google Sheet
-    # First, get the Google Sheet
     worksheet = SHEET.worksheet('food_items')
 
-    # Then, append each row
     for row in rows_to_append:
         worksheet.append_row(row)
         
 rows_to_append()
-
-
-    
-
-
-   
-        
-        
-    
-
-
-
-    
-
-
-
-
 
 
     

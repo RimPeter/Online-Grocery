@@ -1,0 +1,3 @@
+{
+    "customer_page": "<header class='header'> <!-- Company logo --> <img src='assets/images/logo.png' alt='Company Logo' class='logo' /> <!-- Navigation buttons --> <div class='nav'> <button>Shopping</button> <button>Favourites</button> <button>Past Orders</button> <button>My Account</button> </div> </header> <div class='frame1'> <div class='frame2-1'>product image</div> <div class='frame2-2'> <div class='frame3'>product name</div> <div class='frame3'> <div class='frame4'>price</div> <div class='frame4'> <div class='frame5'>'add-on' icon</div> <div class='frame5'>item number</div> <div class='frame5'>'reduce' icon</div> </div> </div> </div> </div>"
+}
