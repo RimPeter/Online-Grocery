@@ -18,31 +18,40 @@ products = SHEET.worksheet('product_list')
 
 data = products.get_all_values()
 
-#print(data)
-
 API_KEY = open('API_KEY').read()
 SEARCH_ENGINE_ID = open('SearchEngineID').read()
 
-
-
-search_query = 'cats'
-
-# url = 'https://www.googleapis.com/customsearch/v1'
-# params = {
-#     'q' : search_query,
-#     'key' : API_KEY,
-#     'cx' : SEARCH_ENGINE_ID,
-#     'searchType' : 'image'
-# }
-
-# response = requests.get(url, params=params)
-# results = response.json()
-# #print(results)
-
-# if 'items' in results:
-#     print(results['items'][0]['link'])
+# with open('productlist.json', 'r') as file:
+#     product_list = json.load(file)
+product_list = {
+    "Dairy": {
+        "Milk": "1.50",
+        "Cheese": "2.50",
+        "Yogurt": "1.00",
+        "Butter": "2.00"
+    },
+    "Meat": {
+        "Chicken": "3.50",
+        "Beef": "5.50",
+        "Pork": "4.50",
+        "Lamb": "6.50"
+    },
+    "Fruit": {
+        "Apple Fruit": "1.00",
+        "Banana": "0.50",
+        "Orange": "0.75",
+        "Grapes": "2.00"
+    },
+    "Vegetables": {
+        "Carrot": "1.00",
+        "Potato": "0.50",
+        "Onion": "0.75",
+        "Lettuce": "2.00"
+    }
+}
+search_query = list(product_list["Dairy"].keys())[3] + 'packaging'
     
-def google_search(search_query):
+def search_google_image(search_query):
     url = 'https://www.googleapis.com/customsearch/v1'
     params = {
         'q' : search_query,
@@ -57,31 +66,32 @@ def google_search(search_query):
     else:
         return 'No image found'
     
-#print(google_search('cats'))
+#print(search_google_image(search_query))
+
+# loop through the product list and search for images, add them to the product list
+def add_images_to_product_list():
+    for category in product_list:
+        for product in product_list[category]:
+            #print(product)
+            the_link = search_google_image(product + ' packaging')
+            #print(the_link)
+            product_list[category][product] = {"price": product_list[category][product], "image_link": the_link}
+            #print(product_list[category][product])
+            
+add_images_to_product_list()
+
+
+        
+        
+        
     
 
-# loop through the first 5 items in the 3rd column of 'product_list' sheet and search for the image of the product and update the 4th column with the image link
 
-# update = products.update_cell(1, 4, 'Image Link')
-# for i in range(366, 15460):
-#     search_query = data[i][2]
-#     url = 'https://www.googleapis.com/customsearch/v1'
-#     params = {
-#         'q' : search_query,
-#         'key' : API_KEY,
-#         'cx' : SEARCH_ENGINE_ID,
-#         'searchType' : 'image'
-#     }
-#     response = requests.get(url, params=params)
-#     results = response.json()
-#     if 'items' in results:
-#         image_link = results['items'][0]['link']
-#         update = products.update_cell(i+1, 4, image_link)
-#         print(f'Updated image link for {data[i][0]}')
-#     else:
-#         print(f'No image found for {data[i][0]}')
-        
-#print('All done!')
+
+    
+
+
+
 
 
 
