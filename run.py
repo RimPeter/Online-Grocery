@@ -14,42 +14,19 @@ SCOPED_CREDS = CREDS.with_scopes(SCOPE)
 GSPREAD_CLIENT = gspread.authorize(SCOPED_CREDS)
 SHEET = GSPREAD_CLIENT.open('grocery_online')
 
-products = SHEET.worksheet('product_list')
+#products = SHEET.worksheet('product_list')
+#products_data = products.get_all_values()
 
-data = products.get_all_values()
+food_items = SHEET.worksheet('food_items')
+food_items_data = food_items.get_all_values()
 
 API_KEY = open('API_KEY').read()
 SEARCH_ENGINE_ID = open('SearchEngineID').read()
 
-# with open('productlist.json', 'r') as file:
-#     product_list = json.load(file)
-product_list = {
-    "Dairy": {
-        "Milk": "1.50",
-        "Cheese": "2.50",
-        "Yogurt": "1.00",
-        "Butter": "2.00"
-    },
-    "Meat": {
-        "Chicken": "3.50",
-        "Beef": "5.50",
-        "Pork": "4.50",
-        "Lamb": "6.50"
-    },
-    "Fruit": {
-        "Apple Fruit": "1.00",
-        "Banana": "0.50",
-        "Orange": "0.75",
-        "Grapes": "2.00"
-    },
-    "Vegetables": {
-        "Carrot": "1.00",
-        "Potato": "0.50",
-        "Onion": "0.75",
-        "Lettuce": "2.00"
-    }
-}
-search_query = list(product_list["Dairy"].keys())[3] + 'packaging'
+with open('productlist.json', 'r') as file:
+    product_list = json.load(file)
+
+#search_query = list(product_list["Dairy"].keys())[3] + 'packaging'
     
 def search_google_image(search_query):
     url = 'https://www.googleapis.com/customsearch/v1'
@@ -67,21 +44,32 @@ def search_google_image(search_query):
         return 'No image found'
     
 #print(search_google_image(search_query))
-
-# loop through the product list and search for images, add them to the product list
-def add_images_to_product_list():
-    for category in product_list:
-        for product in product_list[category]:
-            #print(product)
+def rows_to_append():
+    rows_to_append = []
+    for category, inner_dict in product_list.items():
+        #print(category)
+        print(inner_dict)
+        #print(product_list.items())
+        for product, price in inner_dict.items():
+            #if product.endswith('a'):  # Assuming 'a' or 'b' distinguishes the float values from string values
             the_link = search_google_image(product + ' packaging')
-            #print(the_link)
-            product_list[category][product] = {"price": product_list[category][product], "image_link": the_link}
-            #print(product_list[category][product])
-            
-add_images_to_product_list()
+            rows_to_append.append([category, product, price, the_link])
 
+    # Append rows to the Google Sheet
+    # First, get the Google Sheet
+    worksheet = SHEET.worksheet('food_items')
 
+    # Then, append each row
+    for row in rows_to_append:
+        worksheet.append_row(row)
         
+rows_to_append()
+
+
+    
+
+
+   
         
         
     
