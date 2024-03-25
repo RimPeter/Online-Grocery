@@ -24,12 +24,29 @@ SEARCH_ENGINE_ID = open('SearchEngineID').read()
 
 
 
-search_query = '25010605401354 barcode'
+search_query = 'rimaszecsi'
 
-def google_search(search_query):
-    ''' 
-    Search for an image using Google Custom Search API 
-    '''
+url = 'https://www.googleapis.com/customsearch/v1'
+params = {
+    'q' : search_query,
+    'key' : API_KEY,
+    'cx' : SEARCH_ENGINE_ID,
+    'searchType' : 'image'
+}
+
+response = requests.get(url, params=params)
+results = response.json()
+#print(results)
+
+if 'items' in results:
+    print(results['items'][0]['link'])
+    
+
+# loop through the first 5 items in the 3rd column of 'product_list' sheet and search for the image of the product and update the 4th column with the image link
+
+update = products.update_cell(1, 4, 'Image Link')
+for i in range(1, 15460):
+    search_query = data[i][2]
     url = 'https://www.googleapis.com/customsearch/v1'
     params = {
         'q' : search_query,
@@ -40,10 +57,14 @@ def google_search(search_query):
     response = requests.get(url, params=params)
     results = response.json()
     if 'items' in results:
-        return results['items'][0]['link']
+        image_link = results['items'][0]['link']
+        update = products.update_cell(i+1, 4, image_link)
+        print(f'Updated image link for {data[i][0]}')
     else:
-        return 'No image found'
-    
-print(google_search('25010605401354 barcode'))
+        print(f'No image found for {data[i][0]}')
+        
+print('All done!')
 
-print('Hello World!')
+
+
+
