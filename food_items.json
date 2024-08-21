@@ -1,0 +1,1567 @@
+{
+    "Bread": {
+        "category": "Bakery",
+        "price": 1.5,
+        "link": "https://lenexamc.com/wp-content/uploads/2022/12/LMC-Blog-Graphic-Types-of-Bread-Packaging_cc.jpg"
+    },
+    "Bagel": {
+        "category": "Bakery",
+        "price": 2,
+        "link": "https://customboxesmarket.com/wp-content/uploads/2023/12/Bagel-Box-Packaging-Wholesale.webp"
+    },
+    "Croissant": {
+        "category": "Bakery",
+        "price": 1,
+        "link": "https://www.coretamp.com/data/watermark/20180726/5b5937016b82e.jpg"
+    },
+    "Donut": {
+        "category": "Bakery",
+        "price": 0.5,
+        "link": "https://www.bakerypackagingboxes.com/wp-content/uploads/2020/02/31-01-2020-donut-blog.jpg"
+    },
+    "Muffin": {
+        "category": "Bakery",
+        "price": 1.25,
+        "link": "https://www.emenacpackaging.com/wp-content/uploads/2021/12/Handle-Muffin-Boxes-1.webp"
+    },
+    "Cookie": {
+        "category": "Bakery",
+        "price": 0.75,
+        "link": "https://www.arka.com/cdn/shop/files/chocolate-chip-cookie-packaging-ideas.jpg?v=1699607564"
+    },
+    "Cake": {
+        "category": "Bakery",
+        "price": 10,
+        "link": "https://www.arka.com/cdn/shop/files/mini-cake-packagings.jpg?v=1710505252"
+    },
+    "Pie": {
+        "category": "Bakery",
+        "price": 8,
+        "link": "https://www.bakerypackagingboxes.com/wp-content/uploads/2018/07/Pie-Boxes04.jpg"
+    },
+    "Cupcake": {
+        "category": "Bakery",
+        "price": 1,
+        "link": "https://www.arka.com/cdn/shop/files/single-cupcake-packaging-ideas.jpg?v=1698328602"
+    },
+    "Brownie": {
+        "category": "Bakery",
+        "price": 1.5,
+        "link": "https://www.arka.com/cdn/shop/files/eco-friendly-brownie-packaging-idea.jpg?v=1697141225"
+    },
+    "Scone": {
+        "category": "Bakery",
+        "price": 1.25,
+        "link": "https://www.sweetstreet.com/wp-content/uploads/library/images/2020/04/SSD_Scones_Multi_InToGoPkg_LoRes.jpg"
+    },
+    "Roll": {
+        "category": "Bakery",
+        "price": 0.5,
+        "link": "https://epacflexibles.com/wp-content/uploads/2020/01/epac-roll-stock--1024x733.png"
+    },
+    "Biscuit": {
+        "category": "Bakery",
+        "price": 0.75,
+        "link": "https://www.customboxesco.com/media/catalog/category/Biscuit_Packaging_Boxes_1.jpg"
+    },
+    "Pretzel": {
+        "category": "Bakery",
+        "price": 1,
+        "link": "https://www.gilchristbag.com/wp-content/uploads/2017/09/pretzel.jpg"
+    },
+    "Pastry": {
+        "category": "Bakery",
+        "price": 1.5,
+        "link": "https://oxopackaging.com/assets/products-gallery/pastry-boxes.webp"
+    },
+    "Tart": {
+        "category": "Bakery",
+        "price": 2,
+        "link": "http://d1fm27ee7pjs8v.cloudfront.net/images/detailed/184/Plant_Based_and_Gluten_free_Dessert_selection_box_-_Positive_Bakes_-_small__54839_rscb-ha.jpg"
+    },
+    "Cinnamon Roll": {
+        "category": "Bakery",
+        "price": 1.5,
+        "link": "https://www.arka.com/cdn/shop/files/windowed-cinnamon-roll-packaging-ideas.jpg?v=1713878043"
+    },
+    "Danish": {
+        "category": "Bakery",
+        "price": 1.25,
+        "link": "https://www.westpack.com/pub/media/wysiwyg/Articles/made_in_dk/made-in-dk-header.jpg"
+    },
+    "Bun": {
+        "category": "Bakery",
+        "price": 1,
+        "link": "https://cdn.ready-market.com.tw/9816a644/Templates/pic/burger.JPG?v=3d662626"
+    },
+    "Strudel": {
+        "category": "Bakery",
+        "price": 1.5,
+        "link": "https://i.pinimg.com/originals/fc/80/b0/fc80b03fb915f86d8287a924536a49e9.jpg"
+    },
+    "Cruller": {
+        "category": "Bakery",
+        "price": 0.75,
+        "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=7177151405659663"
+    },
+    "Eclair": {
+        "category": "Bakery",
+        "price": 2,
+        "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=686489789715248"
+    },
+    "Macaron": {
+        "category": "Bakery",
+        "price": 1.5,
+        "link": "https://m.media-amazon.com/images/I/61K-YOPyFqL._AC_UF894,1000_QL80_.jpg"
+    },
+    "Pancake": {
+        "category": "Bakery",
+        "price": 1,
+        "link": "https://as1.ftcdn.net/v2/jpg/03/78/26/44/1000_F_378264461_l7wS4pXNrjjkhoG7sNUXGjw6Gy1KRxv2.jpg"
+    },
+    "Waffle": {
+        "category": "Bakery",
+        "price": 1.25,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d2f84334883915.6124a0f20c092.jpg"
+    },
+    "French Toast": {
+        "category": "Bakery",
+        "price": 1.5,
+        "link": "https://ip.prod.freshop.retail.ncrcloud.com/resize?url=https://images.freshop.ncrcloud.com/00019600058304/22b740d3f1d9c11dac507fcdca3be87c_large.png&width=512&type=webp&quality=90"
+    },
+    "Milk": {
+        "category": "Dairy",
+        "price": 2.5,
+        "link": "https://brightspotcdn.byu.edu/e8/51/16268b5749c0966f97b13327d6e2/rebecca-holbrook-milkhaus-phase-2-2.jpg"
+    },
+    "Eggs": {
+        "category": "Dairy",
+        "price": 3,
+        "link": "https://www.enzeddesign.com/wp-content/uploads/2019/04/EnZed_2019Website_Packaging_01_KM_01.jpg"
+    },
+    "Cheese": {
+        "category": "Dairy",
+        "price": 4,
+        "link": "https://dva1blx501zrw.cloudfront.net/uploaded_images/gb/images/7306/original/Cathedral-Main-Image_UK-v1_copy.jpg"
+    },
+    "Butter": {
+        "category": "Dairy",
+        "price": 2,
+        "link": "https://media.pakfactory.com/catalog/product/cache/c7a30112d165d3b39569235f6bc121aa/1/_/1_dsc7813.jpg"
+    },
+    "Yogurt": {
+        "category": "Dairy",
+        "price": 1.5,
+        "link": "https://www.packagingstrategies.com/ext/resources/2022/09/29/coexpanweb.jpg?1664457222"
+    },
+    "Cream": {
+        "category": "Dairy",
+        "price": 1,
+        "link": "https://www.packaging-warehouse.com/data/pictures/categories/64/TPN_Cremeverpackung.png"
+    },
+    "Ice Cream": {
+        "category": "Dairy",
+        "price": 3.5,
+        "link": "https://res.cloudinary.com/vistaprint/images/f_auto,q_auto/v1704768784/ideas-and-advice-prod/en-us/image_256899d6977/image_256899d6977.jpeg?_i=AA"
+    },
+    "Sour Cream": {
+        "category": "Dairy",
+        "price": 1.25,
+        "link": "https://eu-images.contentstack.com/v3/assets/blta023acee29658dfc/blt1f1341145493fda0/651da3cc2be7c346fe9d7f3b/Daisy_2014_20Oz_20Regular_20SC_20Squeeze_2072_20dpi.jpg?width=1280&auto=webp&quality=95&format=jpg&disable=upscale"
+    },
+    "Cottage Cheese": {
+        "category": "Dairy",
+        "price": 2,
+        "link": "https://www.refrigeratedfrozenfood.com/ext/resources/IndustryNews2/Pictures2/Hood-cottage-cheese-feature.jpg?1440607297"
+    },
+    "Whipped Cream": {
+        "category": "Dairy",
+        "price": 1.5,
+        "link": "https://assets.epicurious.com/photos/58efc9d82878002b76cf165d/16:9/w_1280,c_limit/trader-joes-whipped-cream-04122017.jpg"
+    },
+    "Cream Cheese": {
+        "category": "Dairy",
+        "price": 2.5,
+        "link": "https://m.media-amazon.com/images/I/61sT5smt57L.jpg"
+    },
+    "Margarine": {
+        "category": "Dairy",
+        "price": 1.75,
+        "link": "https://images.ctfassets.net/f7tuyt85vtoa/6RkrMxhmvdwxmMDTUNBzMV/0b6183ffd41520d0105d809338c2c722/DSC_0100.JPG"
+    },
+    "Half and Half": {
+        "category": "Dairy",
+        "price": 1,
+        "link": "https://producersdairy.com/wp-content/uploads/2018/05/HalfandHalfAll.png"
+    },
+    "Sour Milk": {
+        "category": "Dairy",
+        "price": 0.75,
+        "link": "https://m.media-amazon.com/images/M/MV5BMjI4MDU0ODQ2Ml5BMl5BanBnXkFtZTcwMzk3MjgyOQ@@._V1_.jpg"
+    },
+    "Buttermilk": {
+        "category": "Dairy",
+        "price": 1,
+        "link": "https://i.pinimg.com/736x/bd/94/2d/bd942d8d8e7891f5a058086d2eff3cd8.jpg"
+    },
+    "Condensed Milk": {
+        "category": "Dairy",
+        "price": 2,
+        "link": "https://i.pinimg.com/564x/57/84/41/578441d4da70836bd345a73b8b9ba462.jpg"
+    },
+    "Evaporated Milk": {
+        "category": "Dairy",
+        "price": 1.5,
+        "link": "https://m.media-amazon.com/images/I/71PUXbygJVL._AC_UF894,1000_QL80_.jpg"
+    },
+    "Powdered Milk": {
+        "category": "Dairy",
+        "price": 1.25,
+        "link": "https://www.icapsulepack.com/wp-content/uploads/2022/12/Milk-Powder-Packaging-1-1.jpg"
+    },
+    "Goat Milk": {
+        "category": "Dairy",
+        "price": 3,
+        "link": "https://caprilac.com/wp-content/uploads/2020/03/caprilac-goat-milk-esl-new.png"
+    },
+    "Sheep Milk": {
+        "category": "Dairy",
+        "price": 3.5,
+        "link": "https://i.pinimg.com/236x/0d/a4/ee/0da4ee0ec7de31ee20a8cc78d0c301fc.jpg"
+    },
+    "Buffalo Milk": {
+        "category": "Dairy",
+        "price": 4,
+        "link": "https://igourmet.com/cdn/shop/products/4799_delitia_italian_buffalo_butter-5.jpg?v=1649164208"
+    },
+    "Camel Milk": {
+        "category": "Dairy",
+        "price": 4.5,
+        "link": "https://epacflexibles.com/wp-content/uploads/2021/10/camel-milk-stand-up-pouch-packaging.png"
+    },
+    "Almond Milk": {
+        "category": "Dairy",
+        "price": 3,
+        "link": "https://i0.wp.com/3.bp.blogspot.com/-zwCs0M5Frvg/WL4txRJSciI/AAAAAAAETGk/ymAoafUqp7AQwMC7ZwDswwQ_jDibOk3pACLcB/s1600/Activitie-milk-bud-001.jpg?ssl=1"
+    },
+    "Soy Milk": {
+        "category": "Dairy",
+        "price": 2.5,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a963f43880829.57ffe59045dcf.jpg"
+    },
+    "Coconut Milk": {
+        "category": "Dairy",
+        "price": 2,
+        "link": "https://importfood.com/media/zoo/images/natural-coconut-milk-lg-1020_298679475d776717c311b82aa94c87e3.jpg"
+    },
+    "Apple": {
+        "category": "Fruits",
+        "price": 1,
+        "link": "https://packmojo.com/blog/images/2022/09/apple-rigid-box-packaging.jpg"
+    },
+    "Banana": {
+        "category": "Fruits",
+        "price": 0.5,
+        "link": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/08/09/16/e-mart-banana.jpg"
+    },
+    "Orange": {
+        "category": "Fruits",
+        "price": 0.75,
+        "link": "https://ucarecdn.com/9e5fe011-e7f2-4408-a589-fdbbe1f7305b/-/format/auto/-/quality/smart/-/preview/2048x2048/"
+    },
+    "Grape": {
+        "category": "Fruits",
+        "price": 1.25,
+        "link": "https://www.packagingstrategies.com/ext/resources/ISSUES/2019/30-StyrotekEPSGrapePackagingPhoto2.jpg"
+    },
+    "Strawberry": {
+        "category": "Fruits",
+        "price": 1.5,
+        "link": "https://cdn.farmjournal.com/s3fs-public/inline-images/Straw_1lb_CA_middle.jpg"
+    },
+    "Blueberry": {
+        "category": "Fruits",
+        "price": 2,
+        "link": "https://root24farms.com/wp-content/uploads/2020/07/ClmShlLbl_6oz__wBerryPic.png"
+    },
+    "Raspberry": {
+        "category": "Fruits",
+        "price": 1.5,
+        "link": "https://driscolls.imgix.net/-/media/images/pages/berries/raspberry/04berrydetailraspberrycc1embed.ashx"
+    },
+    "Blackberry": {
+        "category": "Fruits",
+        "price": 2,
+        "link": "https://www.sambrailo.com/wp-content/uploads/Clamshell_20-32-2200_6oz_Mixim-Classic-5x5-blacks.jpg"
+    },
+    "Cherry": {
+        "category": "Fruits",
+        "price": 1.25,
+        "link": "https://www.foodengineeringmag.com/ext/resources/Issues/2018/10-October/Packing-3a-1018.jpg?1539288289"
+    },
+    "Peach": {
+        "category": "Fruits",
+        "price": 1,
+        "link": "https://cdn.perishablenews.com/2021/07/a-p7-3.jpg"
+    },
+    "Plum": {
+        "category": "Fruits",
+        "price": 0.75,
+        "link": "https://www.snackandbakery.com/ext/resources/2022/11/29/plum-organics-new-packaging.jpg?1669739977"
+    },
+    "Pear": {
+        "category": "Fruits",
+        "price": 1.5,
+        "link": "https://www.ipl-ltd.com/wp-content/uploads/2021/05/GG-PEARS.png"
+    },
+    "Kiwi": {
+        "category": "Fruits",
+        "price": 1.25,
+        "link": "https://agfstorage.blob.core.windows.net/misc/FP_com/2020/02/25/1_lb_pack_Zespri_2020.jpg"
+    },
+    "Mango": {
+        "category": "Fruits",
+        "price": 1,
+        "link": "https://www.boxesforfruit.com/wp-content/uploads/2020/10/IMG_7613-scaled.jpg"
+    },
+    "Pineapple": {
+        "category": "Fruits",
+        "price": 2,
+        "link": "https://cdn.freshfruitportal.com/2017/06/hillfresh-pineapples.jpg"
+    },
+    "Watermelon": {
+        "category": "Fruits",
+        "price": 1.5,
+        "link": "https://www.packagingstrategies.com/ext/resources/2017-Postings/Supply-Products/Mondi-melon-for-web.png?1500986960"
+    },
+    "Cantaloupe": {
+        "category": "Fruits",
+        "price": 1.25,
+        "link": "https://i.pinimg.com/474x/ca/94/82/ca94824ef95a25adb79ffcc93b07213e.jpg"
+    },
+    "Honeydew": {
+        "category": "Fruits",
+        "price": 1,
+        "link": "https://m.media-amazon.com/images/I/71PTLQvJyUL._AC_UF894,1000_QL80_.jpg"
+    },
+    "Lemon": {
+        "category": "Fruits",
+        "price": 0.75,
+        "link": "https://www.mottofresh.com/images/paketleme/limon-paket.jpg"
+    },
+    "Lime": {
+        "category": "Fruits",
+        "price": 1.5,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/356f3d165739839.640c90e1dbf34.jpg"
+    },
+    "Grapefruit": {
+        "category": "Fruits",
+        "price": 1.25,
+        "link": "No image found"
+    },
+    "Tangerine": {
+        "category": "Fruits",
+        "price": 1,
+        "link": "No image found"
+    },
+    "Pomegranate": {
+        "category": "Fruits",
+        "price": 2,
+        "link": "No image found"
+    },
+    "Coconut": {
+        "category": "Fruits",
+        "price": 1.5,
+        "link": "https://www.packagingstrategies.com/ext/resources/2016-Postings/New-Packages/Coco-Tap-web.png"
+    },
+    "Avocado": {
+        "category": "Fruits",
+        "price": 1.25,
+        "link": "https://cdn.farmjournal.com/s3fs-public/styles/840x600/public/2023-09/west%20web.png"
+    },
+    "Tomato": {
+        "category": "Canned Goods",
+        "price": 5,
+        "link": "https://www.bakeryandsnacks.com/var/wrbm_gb_food_pharma/storage/images/3/2/8/0/1880823-1-eng-GB/Tomato-plants-get-new-life-with-fibres-used-in-solid-board-packaging.jpg"
+    },
+    "Carrot": {
+        "category": "Vegetables",
+        "price": 0.5,
+        "link": "https://www.jasapackaging.com/hubfs/Pillow_bag_carrots.jpg"
+    },
+    "Broccoli": {
+        "category": "Vegetables",
+        "price": 1,
+        "link": "https://www.veggiesmadeeasy.com/wp-content/uploads/2017/03/Family-Favorites-BROCCOLI-WOKLY-12oz-USA-2022-min-e1662573250150-550x731.png"
+    },
+    "Cauliflower": {
+        "category": "Vegetables",
+        "price": 1.25,
+        "link": "https://cdn.trendhunterstatic.com/thumbs/cauliflower-packaging.jpeg?auto=webp"
+    },
+    "Cabbage": {
+        "category": "Vegetables",
+        "price": 1.5,
+        "link": "https://www.ulmapackaging.com/en/packaging-solutions/produce/fresh-vegetables-without-tray/cabbage-packaging-in-flow-pack-hffs-with-shrink/@@download/image/1935.jpg"
+    },
+    "Lettuce": {
+        "category": "Vegetables",
+        "price": 2,
+        "link": "No image found"
+    },
+    "Spinach": {
+        "category": "Vegetables",
+        "price": 1.5,
+        "link": "https://kbtfoodpack.com/wp-content/uploads/2020/04/Baby-spinach-MAP-thermoforming.jpg"
+    },
+    "Kale": {
+        "category": "Vegetables",
+        "price": 2,
+        "link": "https://i.pinimg.com/236x/d3/ff/84/d3ff8475641cbe9ef78af214b3f5b872.jpg"
+    },
+    "Arugula": {
+        "category": "Vegetables",
+        "price": 1.25,
+        "link": "https://oliviasorganics.org/wp-content/uploads/2020/09/Baby-Arugula-5oz-Lid-700px.png"
+    },
+    "Chard": {
+        "category": "Vegetables",
+        "price": 1,
+        "link": "https://pbs.twimg.com/media/D_vlkwmXsAAX-8T.png"
+    },
+    "Beet": {
+        "category": "Vegetables",
+        "price": 0.75,
+        "link": "https://www.agro-chemistry.com/wp-content/uploads/2021/02/cosun-introduces-beet-paper-packaging.jpg"
+    },
+    "Radish": {
+        "category": "Vegetables",
+        "price": 1.5,
+        "link": "https://ortolanda.com/wp-content/uploads/2018/02/ortolanda-losse-radijs-01.jpg"
+    },
+    "Turnip": {
+        "category": "Vegetables",
+        "price": 1.25,
+        "link": "https://www.naturespride.eu/media/omqh3b5h/meiraap-verpakking-flowpack.jpg"
+    },
+    "Parsnip": {
+        "category": "Vegetables",
+        "price": 1,
+        "link": "https://parsnip.tidymodels.org/logo.png"
+    },
+    "Rutabaga": {
+        "category": "Vegetables",
+        "price": 0.5,
+        "link": "https://m.media-amazon.com/images/I/81xddr8L5IL._AC_UF894,1000_QL80_.jpg"
+    },
+    "Potato": {
+        "category": "Vegetables",
+        "price": 1,
+        "link": "https://cdn.farmjournal.com/s3fs-public/styles/840x600/public/2021-02/MorningGold_Potato_CompostableBag%20web.png?itok=wW5DnolY"
+    },
+    "Sweet Potato": {
+        "category": "Vegetables",
+        "price": 1.25,
+        "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1597221730321031"
+    },
+    "Yam": {
+        "category": "Vegetables",
+        "price": 1.5,
+        "link": "https://resourcewebsite.singoo.cc/14974198033924107/en/image/5b47fe9bb814f.jpg"
+    },
+    "Onion": {
+        "category": "Vegetables",
+        "price": 2,
+        "link": "https://theproducenews.com/sites/default/files/inline-images/cipollini.jpg"
+    },
+    "Garlic": {
+        "category": "Vegetables",
+        "price": 1.5,
+        "link": "https://big-garlic.com/galeria/familias_envases/envases-de-carton_1_1.jpg"
+    },
+    "Shallot": {
+        "category": "Vegetables",
+        "price": 1.25,
+        "link": "https://i5.walmartimages.com/seo/Fresh-Whole-Shallots-3-oz-Package_fd70bb20-79f9-4190-98fb-5194226e2678.ec663739e823b2a4d7a3496e28c367b8.jpeg"
+    },
+    "Leek": {
+        "category": "Vegetables",
+        "price": 1,
+        "link": "https://www.ulmapackaging.com/en/packaging-solutions/produce/fresh-vegetables-without-tray/bunch-of-leeks-packaging-in-flow-pack-wrapper-hffs/360_1.jpg/@@images/03b5e9f5-e6b6-4e7b-815e-8a21b3de1fa4.jpeg"
+    },
+    "Scallion": {
+        "category": "Vegetables",
+        "price": 0.75,
+        "link": "https://www.ulmapackaging.com/en/packaging-solutions/produce/fresh-vegetables-in-trays/spring-onions-tray-packaging-in-stretch-film/1908_1.jpg/@@images/77a066a8-10db-446b-b3a4-246fc888ad33.jpeg"
+    },
+    "Celery": {
+        "category": "Vegetables",
+        "price": 1.5,
+        "link": "No image found"
+    },
+    "Fennel": {
+        "category": "Vegetables",
+        "price": 1.25,
+        "link": "https://i5.walmartimages.com/seo/Tom-s-of-Maine-Fluoride-Free-Antiplaque-Whitening-Natural-Toothpaste-Fennel-5-5-oz-Pack-of-2-Packaging-May-Vary_14399afe-cc03-4aea-9bc9-7eb4e334303b.91d4eb5de189a8e08b14376e20585a5d.jpeg"
+    },
+    "Asparagus": {
+        "category": "Vegetables",
+        "price": 1,
+        "link": "https://vegetablegrowersnews.com/wp-content/uploads/2018/04/Asparagus_16ozMock3.jpg"
+    },
+    "Beef": {
+        "category": "Canned Goods",
+        "price": 11,
+        "link": "http://www.beefresearch.org/Media/BeefResearch/Images/beef-packaging-figure-2_10-26-2020-53.jpg"
+    },
+    "Pork": {
+        "category": "Canned Goods",
+        "price": 12,
+        "link": "https://www.packagingstrategies.com/ext/resources/2014-Postings/New-Packages-2/prime-pork-collection.jpg?1437418259"
+    },
+    "Chicken": {
+        "category": "Canned Goods",
+        "price": 10,
+        "link": "https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/v1/CCO/2023%20Articles/July%202023/CCO-WebAssets-ChickenPackagingLabels"
+    },
+    "Turkey": {
+        "category": "Canned Goods",
+        "price": 13,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/adc41952524471.5913795c3312d.jpg"
+    },
+    "Duck": {
+        "category": "Canned Goods",
+        "price": 14,
+        "link": "https://m.media-amazon.com/images/I/71WX4AgVpqL._AC_UF894,1000_QL80_.jpg"
+    },
+    "Goose": {
+        "category": "Canned Goods",
+        "price": 15,
+        "link": "https://ucarecdn.com/aae0839f-9d3b-49fa-8589-72f656c999e1/-/quality/lighter/-/format/auto/-/scale_crop/1920x1080/center/"
+    },
+    "Lamb": {
+        "category": "Canned Goods",
+        "price": 16,
+        "link": "https://cdn1.vectorstock.com/i/1000x1000/69/35/premium-quality-lamb-meat-packaging-label-vector-21786935.jpg"
+    },
+    "Crab": {
+        "category": "Meat",
+        "price": 24,
+        "link": "https://www.ulmapackaging.com/en/packaging-solutions/fish-seafood/frozen-seafood/frozen-crab-packaging-in-traysealing/1816_1.jpg/@@images/8b00215e-e8a7-47f6-93ad-285c16efd43f.jpeg"
+    },
+    "Lobster": {
+        "category": "Meat",
+        "price": 25,
+        "link": "https://www.packedgeinc.com/wp-content/uploads/FHDS6-5535.jpg"
+    },
+    "Shrimp": {
+        "category": "Meat",
+        "price": 26,
+        "link": "https://images-global.nhst.tech/image/UmZsUzJqUEdHbS93dmJRdW55ZlNyditXdXNLaHQxNERRM255czk3cEpkYz0=/nhst/binary/3fe490b500710f148faf758a3818d18a"
+    },
+    "Salmon": {
+        "category": "Seafood",
+        "price": 5,
+        "link": "https://www.sirane.com/wp-content/uploads/2021/08/PrintedSalmonBoard1.jpg"
+    },
+    "Tuna": {
+        "category": "Seafood",
+        "price": 4,
+        "link": "https://m.media-amazon.com/images/I/81YlIVwvrRL._AC_UF894,1000_QL80_.jpg"
+    },
+    "Trout": {
+        "category": "Seafood",
+        "price": 3,
+        "link": "https://cdn1.vectorstock.com/i/1000x1000/98/10/premium-quality-trout-abstract-packaging-vector-30039810.jpg"
+    },
+    "Mackerel": {
+        "category": "Seafood",
+        "price": 2,
+        "link": "https://www.ulmapackaging.com/en/packaging-solutions/fish-seafood/processed-fish/smoked-mackerel-fillets-skin-packaging-in/1840_1.jpg/@@images/8b0d5834-ca34-4f35-9fb6-33040c68e642.jpeg"
+    },
+    "Sardine": {
+        "category": "Seafood",
+        "price": 1,
+        "link": "https://i0.wp.com/blog.pacdora.com/wp-content/uploads/2022/09/roland-canned-sardines-packagings-design.jpg.webp?fit=1000%2C658&ssl=1"
+    },
+    "Herring": {
+        "category": "Seafood",
+        "price": 6,
+        "link": "https://i.pinimg.com/736x/be/9b/12/be9b12630e51edf03682b0c8ee84fe27.jpg"
+    },
+    "Anchovy": {
+        "category": "Seafood",
+        "price": 7,
+        "link": "https://i.pinimg.com/736x/0a/b2/b5/0ab2b587085d498bcc1157e642ea0a53.jpg"
+    },
+    "Cod": {
+        "category": "Seafood",
+        "price": 8,
+        "link": "https://www.ulmapackaging.com/en/packaging-solutions/fish-seafood/fresh-fish/cod-packaging-in-thermoforming-in-modified/535_1.jpg/@@images/ac5725fd-bd34-453d-a516-aa86ed943f45.jpeg"
+    },
+    "Halibut": {
+        "category": "Seafood",
+        "price": 9,
+        "link": "https://neerlandia.com/wp-content/uploads/2021/03/heilbot-scaled-1.jpg"
+    },
+    "Haddock": {
+        "category": "Seafood",
+        "price": 10,
+        "link": "https://www.escal-seafood.com/wp-content/uploads/2017/11/7454-schellfisch-produktseite.png"
+    },
+    "Pollock": {
+        "category": "Seafood",
+        "price": 11,
+        "link": "https://www.pollock.com/wp-content/uploads/2018/11/Pollock-Orora-Logo.png"
+    },
+    "Catfish": {
+        "category": "Seafood",
+        "price": 12,
+        "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=295364294430149"
+    },
+    "Pike": {
+        "category": "Seafood",
+        "price": 13,
+        "link": "https://i5.walmartimages.com/seo/Starbucks-Pike-Place-Roast-K-Cups-72-Count-Packaging-May-Vary_4a6f6dc9-4116-4fd2-bab2-b5a9699a3e09.a794556cb5f903c7579d5644c1419295.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    "Perch": {
+        "category": "Seafood",
+        "price": 14,
+        "link": "https://ideapaint.com/cdn/shop/products/FGBUNDLE06_2023_2000x.jpg?v=1677606719"
+    },
+    "Carp": {
+        "category": "Seafood",
+        "price": 15,
+        "link": "https://as2.ftcdn.net/v2/jpg/01/94/96/51/1000_F_194965141_aFL1YmKHQPCIkAnjQWMdPqNuvTweQH0q.jpg"
+    },
+    "Eel": {
+        "category": "Seafood",
+        "price": 16,
+        "link": "https://ca-times.brightspotcdn.com/dims4/default/e18ba98/2147483647/strip/true/crop/1073x1430+0+0/resize/1200x1599!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F50%2F924be1d64a04be4d87de8be16d4f%2Feel1.jpeg"
+    },
+    "Swordfish": {
+        "category": "Seafood",
+        "price": 17,
+        "link": "https://assets.syndigo.cloud/c6f177b1-b8b6-4bc5-a72b-6aff86c94c2c?fileType=jpg&size=600x600"
+    },
+    "Marlin": {
+        "category": "Seafood",
+        "price": 18,
+        "link": "https://blog.trekbikes.com/wp-content/uploads/2020/10/TK20_BRAND_Bike_Box_1-660x496.jpg"
+    },
+    "Shark": {
+        "category": "Seafood",
+        "price": 19,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fc71e872548743.5beb2afd7d70f.jpg"
+    },
+    "Sturgeon": {
+        "category": "Seafood",
+        "price": 20,
+        "link": "https://cdn3.vectorstock.com/i/1000x1000/03/07/premium-quality-sturgeon-abstract-packaging-vector-30340307.jpg"
+    },
+    "Monkfish": {
+        "category": "Seafood",
+        "price": 21,
+        "link": "https://m.media-amazon.com/images/I/71eqPkwog6L._AC_UF350,350_QL80_.jpg"
+    },
+    "Barracuda": {
+        "category": "Seafood",
+        "price": 22,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/01129f69138505.5b75cd524a531.jpg"
+    },
+    "Mahi Mahi": {
+        "category": "Seafood",
+        "price": 23,
+        "link": "https://i0.wp.com/fwfarms.com/wp-content/uploads/2020/05/mahi-mahi-scaled.jpg?fit=1920%2C2560&ssl=1"
+    },
+    "Wahoo": {
+        "category": "Seafood",
+        "price": 24,
+        "link": "https://i0.wp.com/buckyrides.com/wp-content/uploads/2020/08/wahoo_element_bolt_stealth_4.jpg?ssl=1"
+    },
+    "Tilefish": {
+        "category": "Seafood",
+        "price": 25,
+        "link": "https://vineyardgazette.com/sites/default/files/styles/article_img_feature/public/article-assets/main-photos/2023/suzan_bellincampi_tilefish.jpg?itok=WT6wNFOx"
+    },
+    "Rice": {
+        "category": "Grains",
+        "price": 1,
+        "link": "https://cdnimg.carepac.com/wp-content/uploads/2022/04/RICE-Final-05.png"
+    },
+    "Wheat": {
+        "category": "Grains",
+        "price": 2,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9b8bf276917223.5c77e26038c08.jpg"
+    },
+    "Barley": {
+        "category": "Grains",
+        "price": 3,
+        "link": "No image found"
+    },
+    "Oat": {
+        "category": "Grains",
+        "price": 4,
+        "link": "https://www.logospack.com.hk/wp-content/uploads/Cereal-Oats-6.jpg"
+    },
+    "Corn": {
+        "category": "Grains",
+        "price": 5,
+        "link": "https://www.ulmapackaging.com/en/packaging-solutions/produce/fresh-vegetables-in-trays/ear-of-corn-packaging-in-expanded-tray-and-strech/1333_1.jpg/@@images/c2bf95d4-1f16-42d1-8460-bf06ed9d122a.jpeg"
+    },
+    "Rye": {
+        "category": "Grains",
+        "price": 6,
+        "link": "https://cdn11.bigcommerce.com/s-ihwnd7z21q/images/stencil/1280x1280/products/763/2023/organic-medium-rye-3-lbs-4__54161.1677599242.jpg?c=1"
+    },
+    "Millet": {
+        "category": "Grains",
+        "price": 7,
+        "link": "http://bnborganics.com/cdn/shop/products/KodoMilletFlakes-Poha.jpg?v=1649413113"
+    },
+    "Sorghum": {
+        "category": "Grains",
+        "price": 8,
+        "link": "https://www.wxtytech.com/wp-content/uploads/2021/09/sorghum-packing-machines-bags-25kg-3.jpg"
+    },
+    "Teff": {
+        "category": "Grains",
+        "price": 9,
+        "link": "https://ucarecdn.com/76a935a6-3036-4817-9e6e-33ee712ab7d9/-/crop/1540x866/96,0/-/preview/-/quality/lighter/-/format/auto/-/scale_crop/1920x1080/center/"
+    },
+    "Amaranth": {
+        "category": "Grains",
+        "price": 10,
+        "link": "http://5.imimg.com/data5/ECOM/Default/2022/6/WL/YH/SC/25008022/yuc-jiwa-milletflour-amaranth-proshot-2022-500x500.jpg"
+    },
+    "Quinoa": {
+        "category": "Grains",
+        "price": 11,
+        "link": "https://theaoi.com/wp-content/uploads/2019/01/lemon-herb-mockup.jpg"
+    },
+    "Buckwheat": {
+        "category": "Grains",
+        "price": 12,
+        "link": "https://yi-files.s3.amazonaws.com/products/21000/21982/21990-cover.jpg"
+    },
+    "Spelt": {
+        "category": "Grains",
+        "price": 13,
+        "link": "No image found"
+    },
+    "Kamut": {
+        "category": "Grains",
+        "price": 14,
+        "link": "https://m.media-amazon.com/images/I/91MCzkXJgkL._AC_UF894,1000_QL80_.jpg"
+    },
+    "Farro": {
+        "category": "Grains",
+        "price": 15,
+        "link": "https://www.cucinaandamore.com/cdn/shop/products/2_0fd2d3e0-1cc4-43f8-bfe5-a4560619dce0.jpg?v=1626811483&width=1946"
+    },
+    "Freekeh": {
+        "category": "Grains",
+        "price": 16,
+        "link": "https://m.media-amazon.com/images/I/81E9q+jO0YL.jpg"
+    },
+    "Triticale": {
+        "category": "Grains",
+        "price": 17,
+        "link": "http://mredepot.com/cdn/shop/products/CC1130-2.jpg?v=1701248309"
+    },
+    "Emmer": {
+        "category": "Grains",
+        "price": 18,
+        "link": "https://lonesome-whistle.com/cdn/shop/products/20210112_180708_1024x1024.jpg?v=1612225038"
+    },
+    "Einkorn": {
+        "category": "Grains",
+        "price": 19,
+        "link": "https://m.media-amazon.com/images/I/71dIgU+PeKL._AC_UF894,1000_QL80_.jpg"
+    },
+    "Durum": {
+        "category": "Grains",
+        "price": 20,
+        "link": "https://jovialfoods.com/pub/media/catalog/product/cache/2518b44b4fbaaa2b3166a812f287ec94/i/d/id_495.png"
+    },
+    "Bulgur": {
+        "category": "Grains",
+        "price": 21,
+        "link": "https://www.healthyfoodfactory.eu/upload/catalog/product/32659/thumb/nutrigold-bulgur-1000g-tvornica-zdrave-hrane-1_6226005608468_740x740r.webp"
+    },
+    "Couscous": {
+        "category": "Grains",
+        "price": 22,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/71723531262961.56d90f959eaf9.jpg"
+    },
+    "Polenta": {
+        "category": "Grains",
+        "price": 23,
+        "link": "https://www.melissas.com/cdn/shop/products/image-of-organic-polenta-organics-28657052483628_600x600.jpg?v=1628098780"
+    },
+    "Grits": {
+        "category": "Grains",
+        "price": 24,
+        "link": "https://www.quakeroats.com/sites/quakeroats.com/files/hero_320x400_0002_instant_grits_variety_pack_12_ct_3.png"
+    },
+    "Bran": {
+        "category": "Grains",
+        "price": 25,
+        "link": "https://i.pinimg.com/736x/d4/a7/ec/d4a7ec1e6e0abff8a075bc37d44be516.jpg"
+    },
+    "Flour": {
+        "category": "Grains",
+        "price": 26,
+        "link": "https://media.licdn.com/dms/image/D4E12AQElhkNm1JLHeg/article-cover_image-shrink_720_1280/0/1686302871496?e=2147483647&v=beta&t=ALOQNTslcF8XMxlpMr4RY2ux7ppt-bUMeAV5k2BeN2Y"
+    },
+    "Pasta": {
+        "category": "Canned Goods",
+        "price": 7,
+        "link": "https://ucarecdn.com/d84639ee-b5fe-4fb9-9779-24be2cc83117/-/crop/1500x845/0,78/-/preview/-/quality/lighter/-/format/auto/-/scale_crop/1920x1080/center/"
+    },
+    "Water": {
+        "category": "Beverages",
+        "price": 1,
+        "link": "https://ucarecdn.com/c33b5dc5-9f73-4f55-9f2c-be67666db76e/-/crop/1558x880/0,0/-/preview/-/quality/lighter/-/format/auto/-/scale_crop/1920x1080/center/"
+    },
+    "Soda": {
+        "category": "Beverages",
+        "price": 2,
+        "link": "https://www.packagingstrategies.com/ext/resources/2014-Postings/New-Packages/Q-group-web.jpg?1408071816"
+    },
+    "Juice": {
+        "category": "Beverages",
+        "price": 3,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/38c061101615369.5f22b92f99938.png"
+    },
+    "Tea": {
+        "category": "Beverages",
+        "price": 4,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/154ccc87899033.5dc9db353830d.jpg"
+    },
+    "Coffee": {
+        "category": "Beverages",
+        "price": 5,
+        "link": "https://www.roastar.com/build/roastar/assets/death-wish-gusset.50814509.webp"
+    },
+    "Beer": {
+        "category": "Beverages",
+        "price": 6,
+        "link": "https://bpkc.com/cdn/shop/articles/liquor-packaging-boulevard-brewing-variety-pack-1693231751902_1200x.jpg?v=1693231792"
+    },
+    "Wine": {
+        "category": "Beverages",
+        "price": 7,
+        "link": "https://www.arka.com/cdn/shop/files/wine-packaging-design.webp?v=1692359364"
+    },
+    "Liquor": {
+        "category": "Beverages",
+        "price": 8,
+        "link": "https://www.sourcepak.com/wp-content/uploads/2021/06/SourcePAK-4_13_1813249-scaled.jpg"
+    },
+    "Cocktail": {
+        "category": "Beverages",
+        "price": 9,
+        "link": "https://i0.wp.com/1.bp.blogspot.com/-ByY7RNxJiV0/YU12rH-9ZdI/AAAAAAAIXhI/DlyuBF0CESAs9Ps147ItiRcMfhPYvCp-gCLcBGAsYHQ/s1600/JA-00.jpg?ssl=1"
+    },
+    "Mocktail": {
+        "category": "Beverages",
+        "price": 10,
+        "link": "https://www.tricorbraun.com/media/wysiwyg/TB-MocktailBlog-Images-1078x518-bottles.jpg"
+    },
+    "Smoothie": {
+        "category": "Beverages",
+        "price": 11,
+        "link": "https://www.visstuncups.com/assets/img/splash_smoothie.jpg"
+    },
+    "Milkshake": {
+        "category": "Beverages",
+        "price": 12,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/0ca1d817762533.562bec8f57e0b.jpg"
+    },
+    "Slushie": {
+        "category": "Beverages",
+        "price": 13,
+        "link": "https://i.pinimg.com/236x/ac/c7/53/acc753a456dbedb81013112bb97c281c.jpg"
+    },
+    "Iced Tea": {
+        "category": "Beverages",
+        "price": 14,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/6e8fd793536269.5e677fb220440.jpg"
+    },
+    "Iced Coffee": {
+        "category": "Beverages",
+        "price": 15,
+        "link": "https://ucarecdn.com/9a6bc1ad-30a1-4d19-8577-4b7939eb3b1e/-/quality/lighter/-/format/auto/-/scale_crop/1920x1080/center/"
+    },
+    "Lemonade": {
+        "category": "Beverages",
+        "price": 16,
+        "link": "https://worldbranddesign.com/wp-content/uploads/2019/08/HannahHope-ModernLemonade28Student29.jpg"
+    },
+    "Hot Chocolate": {
+        "category": "Beverages",
+        "price": 17,
+        "link": "http://bakerscandies.com/cdn/shop/products/HotChocolate-1_1200x.jpg?v=1616005060"
+    },
+    "Mocha": {
+        "category": "Beverages",
+        "price": 18,
+        "link": "https://i0.wp.com/4.bp.blogspot.com/-8acidoz26nQ/XpgLmPkketI/AAAAAAAGtSE/yIFdRXjtFogEjRn02Av-vyoDpAxuqDycQCLcBGAsYHQ/s1600/mocha-01.jpg?ssl=1"
+    },
+    "Latte": {
+        "category": "Beverages",
+        "price": 19,
+        "link": "https://i.pinimg.com/originals/46/b5/ae/46b5aeed560ee147789bb72cfe26c7f2.jpg"
+    },
+    "Cappuccino": {
+        "category": "Beverages",
+        "price": 20,
+        "link": "https://images-platform.99static.com/iz13lUzs7RYgNk3dKB8XgJIhZLE=/500x500/top/smart/99designs-contests-attachments/28/28161/attachment_28161228"
+    },
+    "Espresso": {
+        "category": "Beverages",
+        "price": 21,
+        "link": "https://m.media-amazon.com/images/I/81qaEGsSKNL.jpg"
+    },
+    "Macchiato": {
+        "category": "Beverages",
+        "price": 22,
+        "link": "https://m.media-amazon.com/images/I/61yjy2C9yPL.jpg"
+    },
+    "Affogato": {
+        "category": "Beverages",
+        "price": 23,
+        "link": "https://i.pinimg.com/736x/b2/e2/f8/b2e2f80d630525a0645a65fd6a946165.jpg"
+    },
+    "Frappuccino": {
+        "category": "Beverages",
+        "price": 24,
+        "link": "https://m.media-amazon.com/images/I/71od3wX9XQL.jpg"
+    },
+    "Americano": {
+        "category": "Beverages",
+        "price": 25,
+        "link": "https://brandnewday.asia/wp-content/uploads/2019/11/Nescafe-Americano-Packaging-Design.jpg"
+    },
+    "Chips": {
+        "category": "Snacks",
+        "price": 1,
+        "link": "https://cdnimg.carepac.com/wp-content/uploads/2023/05/chips-packaging-benefits.jpg"
+    },
+    "Pretzels": {
+        "category": "Snacks",
+        "price": 2,
+        "link": "https://images.squarespace-cdn.com/content/v1/52800317e4b0f8aebbc9d2cd/1614029614015-ZP1JNYGEW10FVPMSZOK4/Axels_02.jpg"
+    },
+    "Popcorn": {
+        "category": "Snacks",
+        "price": 3,
+        "link": "https://cdn.visipak.com/cmss_files/imagelibrary/popcorn-packaging-featured.jpg"
+    },
+    "Crackers": {
+        "category": "Snacks",
+        "price": 4,
+        "link": "https://www.packagingstrategies.com/ext/resources/all_products_web.jpg?1645111962"
+    },
+    "Cookies": {
+        "category": "Snacks",
+        "price": 5,
+        "link": "https://www.arka.com/cdn/shop/files/chocolate-chip-cookie-packaging-ideas.jpg?v=1699607564"
+    },
+    "Candy": {
+        "category": "Snacks",
+        "price": 6,
+        "link": "https://cdnimg.carepac.com/wp-content/uploads/2023/04/candy-packaging-family.jpg"
+    },
+    "Chocolate": {
+        "category": "Snacks",
+        "price": 7,
+        "link": "https://marvel-b1-cdn.bc0a.com/f00000000297836/www.jbmpackaging.com/wp-content/uploads/2022/01/2a_Shelf.jpg"
+    },
+    "Gum": {
+        "category": "Snacks",
+        "price": 8,
+        "link": "https://www.gumlinkcc.com/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/products/chewing%20gum/packaging_gum_may2016_IMG_0133_crop.jpg&Format=jpg&Width=2556&Quality=75"
+    },
+    "Nuts": {
+        "category": "Snacks",
+        "price": 9,
+        "link": "https://cdnimg.carepac.com/wp-content/uploads/2023/05/nuts-packaging-5.jpg"
+    },
+    "Seeds": {
+        "category": "Snacks",
+        "price": 10,
+        "link": "https://dutch-passion.com/img/cms/Blogs/Dutch-Passion-cannabis-seed-company-packaging-2021-colours.jpg"
+    },
+    "Trail Mix": {
+        "category": "Snacks",
+        "price": 11,
+        "link": "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/7/2020/10/Real-Handful.jpg"
+    },
+    "Granola": {
+        "category": "Snacks",
+        "price": 12,
+        "link": "https://cdnimg.carepac.com/wp-content/uploads/2023/03/peanut-granola-packaging-1.jpg"
+    },
+    "Protein Bar": {
+        "category": "Snacks",
+        "price": 13,
+        "link": "No image found"
+    },
+    "Energy Bar": {
+        "category": "Snacks",
+        "price": 14,
+        "link": "No image found"
+    },
+    "Cereal Bar": {
+        "category": "Snacks",
+        "price": 15,
+        "link": "https://i0.wp.com/4.bp.blogspot.com/-cgEd9qaIugo/WOEBmZCloaI/AAAAAAAEWMM/sfMRNYGNGncpBGJRwo5ATWgyjT_KrRFeACLcB/s1600/hommy_01.jpg?ssl=1"
+    },
+    "Fruit Bar": {
+        "category": "Snacks",
+        "price": 16,
+        "link": "No image found"
+    },
+    "Nut Bar": {
+        "category": "Snacks",
+        "price": 17,
+        "link": "No image found"
+    },
+    "Seed Bar": {
+        "category": "Snacks",
+        "price": 18,
+        "link": "https://brohouse.com/wp-content/uploads/2019/09/Go-Bar-seed-bar-packaging-design-by-brohouse-1800x940.jpg"
+    },
+    "Granola Bar": {
+        "category": "Snacks",
+        "price": 19,
+        "link": "https://images-platform.99static.com/k0_4aHCRS1BxpVaYu7fPRBt6hmE=/0x0:1772x1772/500x500/top/smart/99designs-contests-attachments/119/119056/attachment_119056829"
+    },
+    "Protein Shake": {
+        "category": "Snacks",
+        "price": 20,
+        "link": "https://i0.wp.com/2.bp.blogspot.com/-6O9UVJo0XNA/USSRQO2aYvI/AAAAAAAAqUc/E2w6F4OaFmo/s1600/PS-01.jpg"
+    },
+    "Energy Drink": {
+        "category": "Snacks",
+        "price": 21,
+        "link": "https://www.smashbrand.com/wp-content/uploads/2014/11/energy-drink-packaging-design.png"
+    },
+    "Sports Drink": {
+        "category": "Snacks",
+        "price": 22,
+        "link": "https://www.bevindustry.com/ext/resources/2021/New-Packages/HOIST_NewPackaging_900.jpg?1614879547"
+    },
+    "Protein Powder": {
+        "category": "Snacks",
+        "price": 23,
+        "link": "No image found"
+    },
+    "Energy Powder": {
+        "category": "Snacks",
+        "price": 24,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/69f12893853813.5e6fb16d886c7.jpg"
+    },
+    "Sports Powder": {
+        "category": "Snacks",
+        "price": 25,
+        "link": "https://m.media-amazon.com/images/I/71MMpMP0x4L._AC_UF1000,1000_QL80_.jpg"
+    },
+    "Soup": {
+        "category": "Canned Goods",
+        "price": 1,
+        "link": "https://www.packagingstrategies.com/ext/resources/2018-Postings/New-Packages/Bou-soup.png?1538400584"
+    },
+    "Vegetable": {
+        "category": "Canned Goods",
+        "price": 2,
+        "link": "https://i.pinimg.com/564x/3e/73/ac/3e73ac5fd02f2b79b961a2c4359e1993.jpg"
+    },
+    "Fruit": {
+        "category": "Canned Goods",
+        "price": 3,
+        "link": "https://www.ipackdesign.com/wp-content/uploads/2021/05/fresh-fruit-packaging-design-2.jpg"
+    },
+    "Bean": {
+        "category": "Canned Goods",
+        "price": 4,
+        "link": "https://www.veggiesmadeeasy.com/wp-content/uploads/2017/03/Family-Favorites-FRENCH-BEANS-8oz-BI-2022-min-550x638.png"
+    },
+    "Sauce": {
+        "category": "Canned Goods",
+        "price": 6,
+        "link": "https://images.sks-bottle.com/images/marinade_woozybottle.webp"
+    },
+    "Meat": {
+        "category": "Canned Goods",
+        "price": 8,
+        "link": "https://www.simplyrecipes.com/thmb/3W59wgGGPNU7tmr4tiCV0On4ErY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Puffed-Meat-Containers-Safe-LEAD-a4bb0d5acaf54beda38b511bc5d6551e.jpg"
+    },
+    "Fish": {
+        "category": "Canned Goods",
+        "price": 9,
+        "link": "https://ucarecdn.com/91a8d963-4fd4-4770-ac0d-c90dcca2c073/-/quality/lighter/-/format/auto/-/scale_crop/1920x1080/center/"
+    },
+    "Venison": {
+        "category": "Canned Goods",
+        "price": 17,
+        "link": "https://thedeerslayerswife.files.wordpress.com/2013/01/p1010014.jpg"
+    },
+    "Rabbit": {
+        "category": "Canned Goods",
+        "price": 18,
+        "link": "https://worldbranddesign.com/wp-content/uploads/2021/05/1-Rabbit-world-brand-design.jpg"
+    },
+    "Quail": {
+        "category": "Canned Goods",
+        "price": 19,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/3f8d5c41675833.57af98ceb24b8.jpg"
+    },
+    "Pheasant": {
+        "category": "Canned Goods",
+        "price": 20,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7f707c37964993.5751940617d03.jpg"
+    },
+    "Ostrich": {
+        "category": "Canned Goods",
+        "price": 21,
+        "link": "https://i.pinimg.com/736x/13/46/df/1346dfda3d9e86d962a61e5e683a3557.jpg"
+    },
+    "Buffalo": {
+        "category": "Canned Goods",
+        "price": 22,
+        "link": "https://buffalopackaging.com/wp-content/uploads/2022/03/buffalo-packaging-final-02-1024x289.png"
+    },
+    "Elk": {
+        "category": "Canned Goods",
+        "price": 23,
+        "link": "https://images.squarespace-cdn.com/content/v1/57d1ff2e579fb3d5c110d84f/1475875472555-48CSSPQPMETEK92O50F5/FAVICON_ELK.png"
+    },
+    "Bison": {
+        "category": "Canned Goods",
+        "price": 24,
+        "link": "https://www.bisonbag.com/wp-content/uploads/2023/10/Featured-Product-Stand-Up-Pouch.jpg"
+    },
+    "Kangaroo": {
+        "category": "Canned Goods",
+        "price": 25,
+        "link": "https://www.polar-tech.com/shop/catalog/items/Kangaroo_Mailer_2.jpg"
+    },
+    "Pizza": {
+        "category": "Frozen Foods",
+        "price": 1,
+        "link": "https://ucarecdn.com/45fe3924-6d7f-480a-becc-05e24c0cf2b5/-/crop/1080x608/0,101/-/preview/-/quality/lighter/-/format/auto/-/scale_crop/1920x1080/center/"
+    },
+    "Burger": {
+        "category": "Frozen Foods",
+        "price": 2,
+        "link": "https://www.blueboxpackaging.com/wp-content/uploads/2018/12/Burger-Boxes-Cardboard.webp"
+    },
+    "Fries": {
+        "category": "Frozen Foods",
+        "price": 3,
+        "link": "https://www.hollypowder.com/wp-content/uploads/2019/06/holderbag-for-french-fries-800x751.jpeg"
+    },
+    "Onion Rings": {
+        "category": "Frozen Foods",
+        "price": 4,
+        "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3790075227765345"
+    },
+    "Mozzarella Stick": {
+        "category": "Frozen Foods",
+        "price": 5,
+        "link": "https://farmrich.com/wp-content/uploads/1970/01/FR-11533_Mozz-Sticks_PKG_v1.png"
+    },
+    "Chicken Nugget": {
+        "category": "Frozen Foods",
+        "price": 6,
+        "link": "https://eurousa.com/wp-content/uploads/294008-applegte-naturals-chicken-nuggets-01.jpg"
+    },
+    "Fish Stick": {
+        "category": "Frozen Foods",
+        "price": 7,
+        "link": "https://cdn4.vectorstock.com/i/1000x1000/40/08/label-design-for-packaging-fish-sticks-vector-35134008.jpg"
+    },
+    "Popsicle": {
+        "category": "Frozen Foods",
+        "price": 9,
+        "link": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2023/04/vjb-2.jpg?fit=1620%2C1080&ssl=1"
+    },
+    "Frozen Yogurt": {
+        "category": "Frozen Foods",
+        "price": 10,
+        "link": "https://i0.wp.com/1.bp.blogspot.com/-Qqfi0dP3Zzc/YO_k6Q0YYtI/AAAAAAAIHNY/J3Z1dr7xME0JzWpjougC_EcF6AmUFvGggCLcBGAsYHQ/s1600/1-coco%2Btubs.jpg?ssl=1"
+    },
+    "Frozen Fruit": {
+        "category": "Frozen Foods",
+        "price": 11,
+        "link": "https://epacflexibles.com/wp-content/uploads/2023/01/pure1-1024x1024.jpg"
+    },
+    "Frozen Vegetable": {
+        "category": "Frozen Foods",
+        "price": 12,
+        "link": "https://s3.us-east-2.amazonaws.com/proampac-media/images/16784503479606_pas_recyclable-rp1000.png"
+    },
+    "Frozen Meal": {
+        "category": "Frozen Foods",
+        "price": 13,
+        "link": "https://epacflexibles.com/wp-content/uploads/2020/04/perfect-pasta.jpg"
+    },
+    "Frozen Dinner": {
+        "category": "Frozen Foods",
+        "price": 14,
+        "link": "https://epacflexibles.com/wp-content/uploads/2020/04/wunder-nuggets-all-1024x458.png"
+    },
+    "Frozen Breakfast": {
+        "category": "Frozen Foods",
+        "price": 15,
+        "link": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2Farchive%2F7f47aaa42e82aac031d368e9724baf41455f65f4"
+    },
+    "Frozen Lunch": {
+        "category": "Frozen Foods",
+        "price": 16,
+        "link": "https://www.refrigeratedfrozenfood.com/ext/resources/IndustryNews2/Packaging/Birds-Eye-frozen-ready-meals-redesign-feature.jpg?1533047604"
+    },
+    "Frozen Snack": {
+        "category": "Frozen Foods",
+        "price": 17,
+        "link": "https://assets-global.website-files.com/64957750b431e096dc85ba1e/6496ee42d9e46201fb3cd87b_60479ef9a856a129ab95ae54_frozen-food_2.jpeg"
+    },
+    "Frozen Appetizer": {
+        "category": "Frozen Foods",
+        "price": 18,
+        "link": "https://www.emenacpackaging.com/wp-content/uploads/2021/12/Four-corner-Frozen-Appetizers-Boxes-3.webp"
+    },
+    "Frozen Dessert": {
+        "category": "Frozen Foods",
+        "price": 19,
+        "link": "https://www.papermc.com/wp-content/uploads/2016/02/non-round-tapered-dairy-frozen-packaging.jpg"
+    },
+    "Frozen Entree": {
+        "category": "Frozen Foods",
+        "price": 20,
+        "link": "https://s3.us-east-2.amazonaws.com/proampac-media/images/16771006355103_frozen-film.png"
+    },
+    "Frozen Side": {
+        "category": "Frozen Foods",
+        "price": 21,
+        "link": "https://image.made-in-china.com/202f0j00HqrbgTOKhpko/Frozen-Food-Plastic-Packaging-Pouch-Fish-Beef-Lamp-Meat-Shrimp-Window-Nylon-PA-Pet-PE-Easy-Opening-Customized-Printing-3-Side-Seal-Stand-up-Bag.webp"
+    },
+    "Frozen Main": {
+        "category": "Frozen Foods",
+        "price": 22,
+        "link": "https://www.trianglefoodproducts.com/cdn/shop/products/frozen-3.11_530x@2x.jpg?v=1567019593"
+    },
+    "Frozen Starter": {
+        "category": "Frozen Foods",
+        "price": 23,
+        "link": "https://preview.redd.it/frozen-meal-starter-pack-v0-kztpr8udsdw91.png?auto=webp&s=878fe75128040abe427ae21c70f8a101a8c9b112"
+    },
+    "Frozen Finisher": {
+        "category": "Frozen Foods",
+        "price": 24,
+        "link": "https://preview.redd.it/duplicated-my-ice-slime-and-got-the-frozen-fossil-today-v0-76zw50a90hra1.jpg?width=640&crop=smart&auto=webp&s=ce1bbb56e5009460d988eb57f8c67c2604ea07da"
+    },
+    "Frozen Treat": {
+        "category": "Frozen Foods",
+        "price": 25,
+        "link": "https://cdn.trendhunterstatic.com/thumbs/399/plasticfree-packaging.jpeg?auto=webp"
+    },
+    "Toilet Paper": {
+        "category": "Household",
+        "price": 1,
+        "link": "https://m.media-amazon.com/images/I/81TgCO7uxoL._AC_UF1000,1000_QL80_.jpg"
+    },
+    "Paper Towel": {
+        "category": "Household",
+        "price": 2,
+        "link": "https://m.media-amazon.com/images/I/71Z-vvm+EZS.jpg"
+    },
+    "Tissue": {
+        "category": "Household",
+        "price": 3,
+        "link": "https://m.media-amazon.com/images/I/61TGSrU4SLS.jpg"
+    },
+    "Napkin": {
+        "category": "Household",
+        "price": 4,
+        "link": "https://www.packagingstrategies.com/ext/resources/Issues/2018/February/new-products/NN_Img06.jpg?1559144211"
+    },
+    "Wipe": {
+        "category": "Baby Care",
+        "price": 2,
+        "link": "https://www.cpflexpack.com/wp-content/uploads/2021/08/sustainable-wipes-packaging-1.jpg"
+    },
+    "Sponge": {
+        "category": "Household",
+        "price": 6,
+        "link": "https://worldbranddesign.com/wp-content/uploads/2022/06/1-makeupsponge-world-brand-design.jpg"
+    },
+    "Scrub": {
+        "category": "Household",
+        "price": 7,
+        "link": "https://m.media-amazon.com/images/I/71Fd1nK7r3L._AC_UF1000,1000_QL80_.jpg"
+    },
+    "Brush": {
+        "category": "Household",
+        "price": 8,
+        "link": "https://kh-pack.com/wp-content/uploads/2021/11/ECO-BOX-003-1-300x300.jpg"
+    },
+    "Mop": {
+        "category": "Household",
+        "price": 9,
+        "link": "https://i.ebayimg.com/images/g/7~UAAOSwDrNi8-FH/s-l1600.jpg"
+    },
+    "Broom": {
+        "category": "Household",
+        "price": 10,
+        "link": "https://ucarecdn.com/94c29d31-1453-4e81-aec6-0682497a8ca4/-/quality/lighter/-/format/auto/-/scale_crop/1920x1080/center/"
+    },
+    "Duster": {
+        "category": "Household",
+        "price": 11,
+        "link": "https://smileshop.scrubdaddy.com/wp-content/uploads/2023/03/Damp-Duster-Towel-2ct_1.jpg"
+    },
+    "Vacuum": {
+        "category": "Household",
+        "price": 12,
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg"
+    },
+    "Washer": {
+        "category": "Household",
+        "price": 13,
+        "link": "http://www.szwzxc.com/upload/image/wm_20190505183354993.jpg"
+    },
+    "Dryer": {
+        "category": "Household",
+        "price": 14,
+        "link": "https://media.pakfactory.com/catalog/product/cache/071a5fe81c96796050ccfcf837545f70/e/1/e17-4_2.jpg"
+    },
+    "Dishwasher": {
+        "category": "Household",
+        "price": 15,
+        "link": "https://dva1blx501zrw.cloudfront.net/uploaded_images/ie/images/14412/original/Fairy-All-Brands-Flex-Dishwasher-Tablets-Packaging-AW-IR-700x700px.jpg"
+    },
+    "Oven": {
+        "category": "Household",
+        "price": 16,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1d72e031138249.5642bf4173a34.jpg"
+    },
+    "Stove": {
+        "category": "Household",
+        "price": 17,
+        "link": "https://www.ybyboxes.com/wp-content/uploads/2019/11/6-57.jpg"
+    },
+    "Fridge": {
+        "category": "Household",
+        "price": 18,
+        "link": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/06/Fridge-box-scaled.jpg"
+    },
+    "Freezer": {
+        "category": "Household",
+        "price": 19,
+        "link": "https://epacflexibles.com/wp-content/uploads/2020/04/wunder-nuggets-all-1024x458.png"
+    },
+    "Microwave": {
+        "category": "Household",
+        "price": 20,
+        "link": "https://www.chemicalsafetyfacts.org/wp-content/uploads/person-putting-food-into-microwave-scaled.jpg"
+    },
+    "Toaster": {
+        "category": "Household",
+        "price": 21,
+        "link": "https://ibexpackaging.com/wp-content/uploads/2022/06/Toaster-Packaging-Boxes-10.jpg"
+    },
+    "Blender": {
+        "category": "Household",
+        "price": 22,
+        "link": "https://i.ytimg.com/vi/Qkj1okN4ZqQ/maxresdefault.jpg"
+    },
+    "Mixer": {
+        "category": "Household",
+        "price": 23,
+        "link": "https://cdn.dribbble.com/users/3382193/screenshots/6513332/gif___.gif"
+    },
+    "Processor": {
+        "category": "Household",
+        "price": 24,
+        "link": "https://c8.alamy.com/comp/MJCHHC/central-processing-unit-cpu-processor-microchip-in-the-packaging-box-on-black-background-MJCHHC.jpg"
+    },
+    "Grinder": {
+        "category": "Household",
+        "price": 25,
+        "link": "https://images-platform.99static.com/75bGr6LXYPWRDz1OfJMXW9dF2PM=/3x0:2040x2037/500x500/top/smart/99designs-contests-attachments/92/92282/attachment_92282553"
+    },
+    "Shampoo": {
+        "category": "Baby Care",
+        "price": 7,
+        "link": "https://worldbranddesign.com/wp-content/uploads/2021/06/414.jpg"
+    },
+    "Conditioner": {
+        "category": "Personal Care",
+        "price": 2,
+        "link": "https://worldbranddesign.com/wp-content/uploads/2021/06/414.jpg"
+    },
+    "Soap": {
+        "category": "Baby Care",
+        "price": 8,
+        "link": "https://www.arka.com/cdn/shop/files/natural-soap-packaging-ideas.jpg?v=1698331828"
+    },
+    "Lotion": {
+        "category": "Baby Care",
+        "price": 6,
+        "link": "https://m.media-amazon.com/images/I/71lFp-gpo+L._AC_UF1000,1000_QL80_.jpg"
+    },
+    "Oil": {
+        "category": "Baby Care",
+        "price": 4,
+        "link": "https://www.designandpaper.com/wp-content/uploads/2022/11/oliveoil_featured1.jpg"
+    },
+    "Gel": {
+        "category": "Personal Care",
+        "price": 7,
+        "link": "https://www.impakcorporation.com/image/data/Case%20study/muir-energy-dispenser-tip-packets.jpeg"
+    },
+    "Spray": {
+        "category": "Personal Care",
+        "price": 8,
+        "link": "https://unblast.com/wp-content/uploads/2022/02/Mini-Spray-Bottle-Packaging-Mockup.jpg"
+    },
+    "Deodorant": {
+        "category": "Personal Care",
+        "price": 9,
+        "link": "https://images.sks-bottle.com/images/0805-39LRGt.webp"
+    },
+    "Perfume": {
+        "category": "Personal Care",
+        "price": 10,
+        "link": "https://www.smashbrand.com/wp-content/uploads/2023/07/Perfume-Packaging-Design.jpg"
+    },
+    "Cologne": {
+        "category": "Personal Care",
+        "price": 11,
+        "link": "https://i.ytimg.com/vi/zKU9suOngbI/maxresdefault.jpg"
+    },
+    "Toothpaste": {
+        "category": "Personal Care",
+        "price": 12,
+        "link": "https://m.media-amazon.com/images/I/61j-Ovvho6L._AC_UF1000,1000_QL80_.jpg"
+    },
+    "Mouthwash": {
+        "category": "Personal Care",
+        "price": 13,
+        "link": "https://eu-images.contentstack.com/v3/assets/blta023acee29658dfc/blt37cb9a4b947dcc02/651a757937a1651bd819a046/Scope_Squeez_Lineup-ftd.jpg?width=850&auto=webp&quality=95&format=jpg&disable=upscale"
+    },
+    "Floss": {
+        "category": "Personal Care",
+        "price": 14,
+        "link": "https://m.media-amazon.com/images/I/51f7Oh2yu3L._AC_UF1000,1000_QL80_.jpg"
+    },
+    "Toothbrush": {
+        "category": "Personal Care",
+        "price": 15,
+        "link": "https://assets.beardwood.com/uploads/2020/08/454c4b49-2bco_updates_colgatebamboo_sustainablepackaging2.jpg"
+    },
+    "Razor": {
+        "category": "Personal Care",
+        "price": 16,
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/4ae2a842833913.57d9597f146a2.png"
+    },
+    "Shave": {
+        "category": "Personal Care",
+        "price": 17,
+        "link": "https://blog.pack.ly/wp-content/uploads/2021/08/cardboard-razor-packaging-design-smart.jpg"
+    },
+    "Wax": {
+        "category": "Personal Care",
+        "price": 18,
+        "link": "https://newapi.axiomprint.com/uploads/ConcentrateBox-1-600x500-775.jpg"
+    },
+    "Tweeze": {
+        "category": "Personal Care",
+        "price": 19,
+        "link": "https://www.cpcosmeticboxes.com/wp-content/uploads/2018/10/1-21.jpg"
+    },
+    "Pluck": {
+        "category": "Personal Care",
+        "price": 20,
+        "link": "https://i.ebayimg.com/images/g/pV0AAMXQAx9RKOUE/s-l1200.webp"
+    },
+    "Trim": {
+        "category": "Personal Care",
+        "price": 21,
+        "link": "https://public-files.gumroad.com/lrrawehnpsuo0ojcb91a12nbvk03"
+    },
+    "Clip": {
+        "category": "Personal Care",
+        "price": 22,
+        "link": "https://i.etsystatic.com/15517041/r/il/ba49d0/5425021230/il_300x300.5425021230_cuic.jpg"
+    },
+    "File": {
+        "category": "Personal Care",
+        "price": 23,
+        "link": "https://www.axaio.com/screensteps/en/images/Layer_Views_in_Packaging/media_1310561665254_lg.png"
+    },
+    "Buff": {
+        "category": "Personal Care",
+        "price": 24,
+        "link": "https://liverungrow.files.wordpress.com/2015/08/buff-pic-2.jpg"
+    },
+    "Polish": {
+        "category": "Personal Care",
+        "price": 25,
+        "link": "https://www.packagingblue.com/content/images/upload_images/nail-polish-boxes-1.png"
+    },
+    "Dog Food": {
+        "category": "Pet Food",
+        "price": 1,
+        "link": "https://www.foodengineeringmag.com/ext/resources/Issues/2020/06-June/fe0620-petfood3_ProAmpac-QUADFLEX.jpg"
+    },
+    "Cat Food": {
+        "category": "Pet Food",
+        "price": 2,
+        "link": "https://www.belmark.com/wp-content/uploads/2022/06/BoxPouch_CatFood_4lb-scaled.jpg"
+    },
+    "Fish Food": {
+        "category": "Pet Food",
+        "price": 3,
+        "link": "https://images.sks-bottle.com/images/fishpellets.webp"
+    },
+    "Bird Food": {
+        "category": "Pet Food",
+        "price": 4,
+        "link": "https://images.sks-bottle.com/images/bird-food.webP"
+    },
+    "Rabbit Food": {
+        "category": "Pet Food",
+        "price": 5,
+        "link": "https://m.media-amazon.com/images/I/81cy-pkg9pL.jpg"
+    },
+    "Guinea Pig Food": {
+        "category": "Pet Food",
+        "price": 6,
+        "link": "https://worldbranddesign.com/wp-content/uploads/2022/07/19.jpg"
+    },
+    "Hamster Food": {
+        "category": "Pet Food",
+        "price": 7,
+        "link": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63f1af42-e57f-4fda-99e5-d3071d3a9ee7/d5atn1q-ecf6610f-32e2-4cc4-8958-a8ca479dfbf4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzZjFhZjQyLWU1N2YtNGZkYS05OWU1LWQzMDcxZDNhOWVlN1wvZDVhdG4xcS1lY2Y2NjEwZi0zMmUyLTRjYzQtODk1OC1hOGNhNDc5ZGZiZjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-ZWZ7BOq0YoLLl0kbOqg6cOI4RJ-CandV15FQpWIYAg"
+    },
+    "Diaper": {
+        "category": "Baby Care",
+        "price": 1,
+        "link": "https://hq2.recyclist.co/wp-content/uploads/sites/2/2015/02/pampers-300x300.jpg"
+    },
+    "Powder": {
+        "category": "Baby Care",
+        "price": 5,
+        "link": "https://www.mcpackagings.com/wp-content/uploads/2019/10/Custom-Printed-40g-Aluminum-Foil-Box-Organic-Powder-Packaging-e1573209284734.jpg"
+    },
+    "": {
+        "category": "",
+        "price": "",
+        "link": ""
+    }
+}
