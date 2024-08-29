@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Online Grocery</title>
-    <link rel="stylesheet" href="" />
-    <link rel="stylesheet" href="assets/css/style.css" />
+      <title>Online Grocery {% block extra_title %}{% endblock extra_title %}</title>
+    {% block meta %}
+      <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% endblock meta %}
+    {% block extra_meta %}{% endblock extra_meta %}
+    {% block corecss %}
+      <link rel="stylesheet" href="assets/css/style.css" />
+    {% endblock corecss %}
+    {% block extra_css %}{% endblock extra_css %}
+    {% block corejs %}
+      <script src="assets/js/script.js"></script>
+    {% endblock corejs %}
+    {% block extrajs %}{% endblock extrajs %}
+    
   </head>
   <body>
     <header class="header">
@@ -37,5 +48,4 @@
     <div id="content"></div>
   </body>
   <!-- link index.js to this html -->
-  <script src="assets/js/script.js"></script>
 </html>
